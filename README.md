@@ -1,7 +1,7 @@
-Hi, I’m @dvdzrv
+Hi, I’m @dvdzrv.
 I’m interested in computer science.
-I’m currently attending the Stredná odborná škola technická, Hviezdoslavova 5 school.
-I am studying information and network technology.
+I’m currently attending the Stredná odborná škola technická, Hviezdoslavova 5, Rožňava school.
+I am studying Information and network technology.
 You can reach me on my school mail david.szomolai@sostrv.sk
 
 <!---
